@@ -1,0 +1,144 @@
+#main-content h1 {
+	font-size: 55px;
+	margin: 0px;
+	padding-left: 40px;
+	padding-right: 20px;
+}
+
+@font-face {
+    font-family: 'OxygenRegular';
+    src: url('Oxygen-webfont.eot');
+    src: url('Oxygen-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Oxygen-webfont.woff') format('woff'),
+         url('Oxygen-webfont.ttf') format('truetype'),
+         url('Oxygen-webfont.svg#OxygenRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'OxygenItalic';
+    src: url('Oxygen-Italic-webfont.eot');
+    src: url('Oxygen-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Oxygen-Italic-webfont.woff') format('woff'),
+         url('Oxygen-Italic-webfont.ttf') format('truetype'),
+         url('Oxygen-Italic-webfont.svg#OxygenItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'OxygenBold';
+    src: url('Oxygen-Bold-webfont.eot');
+    src: url('Oxygen-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Oxygen-Bold-webfont.woff') format('woff'),
+         url('Oxygen-Bold-webfont.ttf') format('truetype'),
+         url('Oxygen-Bold-webfont.svg#OxygenBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'OxygenBoldItalic';
+    src: url('Oxygen-BoldItalic-webfont.eot');
+    src: url('Oxygen-BoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Oxygen-BoldItalic-webfont.woff') format('woff'),
+         url('Oxygen-BoldItalic-webfont.ttf') format('truetype'),
+         url('Oxygen-BoldItalic-webfont.svg#OxygenBoldItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+#searchBox1{
+  position:fixed;
+  top:700px;
+  left:10px;
+  
+  height: 50px;
+  width: 450px;
+  font-size: 30px;
+  
+}
+#searchBox2{
+  position:fixed;
+  top:700px;
+  left:485px;
+  
+  height: 50px;
+  width: 450px;
+  font-size: 30px;
+}
+#mapcanvas{
+margin: 0;
+padding: 0;
+height: 100%;
+}
+
+#btntest {
+  position:fixed;
+  top:700px;
+  left:950px;
+  font-size: 20px;
+  
+}
+
+
+Type
+MIME Type	text/css
+Resource Type	Stylesheet
+Location
+Full URL	http://www.upthere.com/assets/type/oxygen-fontfacekit/stylesheet.css?201210222113
+Scheme	http
+Host	www.upthere.com
+Path	/assets/type/oxygen-fontfacekit/stylesheet.css
+Query String	201210222113
+Filename	stylesheet.css
+Request & Response
+Method	GET
+Cached	No
+Status	OK
+Code	200
+Query Parameters
+Name
+Value
+201210222113
+Request Headers
+Name
+Value
+User-Agent
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/536.28.10 (KHTML, like Gecko) Version/6.0.3 Safari/536.28.10
+Accept
+text/css,*/*;q=0.1
+Referer
+http://www.upthere.com/
+Response Headers
+Name
+Value
+Date
+Sat, 01 Jun 2013 23:57:03 GMT
+Content-Encoding
+gzip
+CF-Cache-Status
+HIT
+Transfer-Encoding
+Identity
+Connection
+keep-alive
+Last-Modified
+Tue, 13 Nov 2012 21:11:45 GMT
+Server
+cloudflare-nginx
+Vary
+Accept-Encoding
+Content-Type
+text/css
+Cache-Control
+public, max-age=14400
+CF-RAY
+77fd811d62c039a
+Expires
+Sun, 02 Jun 2013 03:57:03 GMT
