@@ -54,20 +54,18 @@
 }
 
 #searchBox1{
-  position:fixed;
-  top:700px;
-  left:10px;
-  
+  position:relative;
+  left:-390px;
+  top:280px;
   height: 50px;
   width: 450px;
   font-size: 30px;
   
 }
 #searchBox2{
-  position:fixed;
-  top:700px;
-  left:485px;
-  
+  position:relative;
+  left:-390px;
+  top:280px;
   height: 50px;
   width: 450px;
   font-size: 30px;
